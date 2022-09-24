@@ -20,6 +20,7 @@ flutter pub get
 
 # clean
 flutter clean
+flutter pub cache clean
 
 # App ScreenShot 
 
